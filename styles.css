@@ -19,13 +19,24 @@ footer {
     position: relative;
     flex-direction: row;
     display: flex;
-    justify-content: space-evenly;
+    justify-content: center;
     border: solid 1px;
     padding: 12px;
-    bottom: -490px
+    bottom: -620px
+    
 }
 .nav-footer {
     display: flex;
     flex-direction: row
     
+}
+
+ul {
+    list-style-type: none;
+    position: relative;
+    flex-direction: raw;
+    
+    display: flex;
+    justify-content: center;
+    gap: 160px;
 }
