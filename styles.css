@@ -53,4 +53,17 @@ ul {
     max-width: 450px;
     text-align: center;
     background-color: greenyellow;
+    
+}
+.card-bookmark {
+    position: relative;
+    right: -219px;
+    top: -50px;
+}
+
+
+.card-bookmark2 {
+    position: relative;
+    right: -219px;
+    top: -80px;
 }
