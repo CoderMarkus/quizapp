@@ -35,8 +35,22 @@ ul {
     list-style-type: none;
     position: relative;
     flex-direction: raw;
-    
     display: flex;
     justify-content: center;
     gap: 160px;
+}
+.card {
+    border: 4px solid;
+    border-radius: 26px;
+    border-color: green;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-left: min(20px, 15%);
+    margin-right: min(20px, 15%);
+    margin-top: 40px;
+    margin-bottom: 40px;
+    max-width: 450px;
+    text-align: center;
+    background-color: greenyellow;
 }
