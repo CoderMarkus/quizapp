@@ -13,3 +13,19 @@ h1 {
     text-shadow: 100px;
     
 }
+
+footer {
+    background-color: darkgreen;
+    position: relative;
+    flex-direction: row;
+    display: flex;
+    justify-content: space-evenly;
+    border: solid 1px;
+    padding: 12px;
+    bottom: -490px
+}
+.nav-footer {
+    display: flex;
+    flex-direction: row
+    
+}
